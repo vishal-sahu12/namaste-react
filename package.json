@@ -1,0 +1,31 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "Learning React",
+  "scripts": {
+    "start": "parcel index.html",
+    "production":"parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishal-sahu12/namaste-react.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Vishal Sahu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishal-sahu12/namaste-react/issues"
+  },
+  "homepage": "https://github.com/vishal-sahu12/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
